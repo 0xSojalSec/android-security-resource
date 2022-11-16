@@ -177,6 +177,7 @@
 #### Online APK Analyzers
 
 * [Guardsquare AppSweep](https://www.guardsquare.com/appsweep-mobile-application-security-testing)
+* [Bevigil](https://bevigil.com/)
 * [Oversecured](https://oversecured.com/)
 * [Android Observatory APK Scan](https:/androidobservatory.org/upload)
 * [AndroTotal](http://andrototal.org/)
